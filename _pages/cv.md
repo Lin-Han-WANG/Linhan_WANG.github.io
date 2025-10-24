@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Neurosciences, Institute of neuroscience, Centre for Excellence in Brain Science and Intelligence Technology
+Chinese Academy of Sciences, University of Chinese Academy of Sciences, Supervisor: Dr. Yangang SUN, 2019-2026
+* B.S. in Biologuy, Yunnan University, 2015-2019
 
 Work experience
 ======
@@ -34,12 +34,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Calcium imaging
+  * Surgery: Stereotactic injection; GRIN lens implantation
+  * Data collection with miniscope
+  * Data analysis (MATLAB/Python)
+* Behavior test(mice)
+* Optogenetics and chemogenectics in the mouse brain and spinal cord
+* 
 
 Publications
 ======
