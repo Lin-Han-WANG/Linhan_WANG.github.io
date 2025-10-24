@@ -1,7 +1,7 @@
 ---
 title: "FENS – Chen Institute – NeuroLéman Summer School 2024"
 collection: activities
-type: "Academic Activities"
+type: "activities"
 permalink: /activities/2024-summer school
 venue: "University of Lausanne"
 date: 2024-08-24
