@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Linhan Wang",
+    "email": "lhwang@ion.ac.cn; wanglinhan2015@outlook.com",
     "phone": "",
     "website": "https://academicpages.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Shanghai",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
@@ -21,7 +21,7 @@
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0001-2563-6764"
       },
       {
         "network": "GitHub",
@@ -34,41 +34,32 @@
   "education": [
     {
       "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "area": "Ph.D in Neuroscience",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2019",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Yunnan University",
+      "area": "B.S. in Biology",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2015",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": [Chinese, English],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
+      "name": "Spinal ascending pathways for somatosensory information processing",
+      "publisher": "Trends in Neurosciences",
+      "releaseDate": "2022-08",
       "website": "http://academicpages.github.io/files/paper1.pdf",
       "summary": "This paper is about the number 1. The number 2 is left for future work."
     },
