@@ -23,7 +23,7 @@ repository               : "https://lin-han-wang.github.io/Linhan_WANG.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "https://avatars.githubusercontent.com/u/57709708?v=4"
   name             : "Linhan Wang (王林翰)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Neuroscience"
