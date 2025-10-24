@@ -281,9 +281,9 @@ defaults:
   # _activities
   - scope:
       path: ""
-      type: Academic activities
+      type: Academic Activities
     values:
-      layout: Academic activities
+      layout: Academic Activities
       author_profile: true
       share: true
 
