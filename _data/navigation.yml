@@ -12,10 +12,10 @@ main:
     url: /publications/
 
   - title: "Academic Activities"
-    url: /Academic Activities/    
+    url: /activities/    
 
   - title: "Awards"
-    url: /Awards/    
+    url: /awards/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
