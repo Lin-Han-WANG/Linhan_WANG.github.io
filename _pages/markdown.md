@@ -18,8 +18,8 @@ redirect_from:
   * _publications/
   * _portfolio/
   * _posts/
-  * _teaching/
-  * _talks/
+  * _Adwards/
+  * _Academic activities/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
