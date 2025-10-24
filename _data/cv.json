@@ -3,8 +3,8 @@
     "name": "Linhan Wang",
     "email": "lhwang@ion.ac.cn; wanglinhan2015@outlook.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://lin-han-wang.github.io",
+    "summary": "Currently employed at  Institute of neuroscience, Centre for Excellence in Brain Science and Intelligence Technology Chinese Academy of Sciences, University of Chinese Academy of Sciences. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,7 +16,7 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=tRXmXNYAAAAJ&hl=zh-CN"
       },
       {
         "network": "ORCID",
@@ -33,7 +33,7 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
+      "institution": "University of Chinese Academy of Sciences",
       "area": "Ph.D in Neuroscience",
       "studyType": "",
       "startDate": "2019",
@@ -60,21 +60,21 @@
       "name": "Spinal ascending pathways for somatosensory information processing",
       "publisher": "Trends in Neurosciences",
       "releaseDate": "2022-08",
-      "website": "http://Linhan_WANG.github.io/files/2022-pinal ascending pathways for somatosensory information processing.pdf",
+      "website": "http://lin-han-wang.github.io/files/paper1.pdf",
       "summary": "This paper is about the number 1. The number 2 is left for future work."
     },
     {
       "name": "Paper Title Number 2",
       "publisher": "Journal 1",
       "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
+      "website": "http://lin-han-wang.github.io/file/paper2.pdf",
       "summary": "This paper is about the number 2. The number 3 is left for future work."
     },
     {
       "name": "Paper Title Number 3",
       "publisher": "Journal 1",
       "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
+      "website": "http://lin-han-wang.github.io/file/paper3.pdf",
       "summary": "This paper is about the number 3. The number 4 is left for future work."
     },
     {
