@@ -254,7 +254,7 @@ defaults:
   # _adwards
   - scope:
       path: ""
-      type: Adwards
+      type: adwards
     values:
       layout: single
       author_profile: true
@@ -281,9 +281,9 @@ defaults:
   # _activities
   - scope:
       path: ""
-      type: Academic Activities
+      type: activities
     values:
-      layout: Academic Activities
+      layout: activities
       author_profile: true
       share: true
 
