@@ -1,7 +1,7 @@
 ---
 title: "Spinal ascending pathways for somatosensory information processing"
 collection: publications
-category: Review
+category: manuscripts
 permalink: /publication/2020-08-22-paper-title-number-1
 excerpt: ''
 date: 2022-08-22
