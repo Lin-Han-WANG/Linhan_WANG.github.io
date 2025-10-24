@@ -1,0 +1,22 @@
+<!-- _includes/archive-single-activity.html -->
+<div class="archive__item" style="margin-bottom: 1.2em;">
+  <h3 class="archive__item-title" style="margin-bottom: 0.2em;">
+    {{ post.title }}
+  </h3>
+
+  <div class="archive__item-meta" style="font-size: 0.9em; color: #666;">
+    {% if post.venue %}
+      <span class="archive__item-venue">{{ post.venue }}</span>
+    {% endif %}
+    {% if post.location %}
+      <span class="archive__item-location">, {{ post.location }}</span>
+    {% endif %}
+    {% if post.date %}
+      <span class="archive__item-date"> — {{ post.date | date: "%B %Y" }}</span>
+    {% endif %}
+  </div>
+
+  <div class="archive__item-excerpt" style="margin-top: 0.4em;">
+    {{ post.content | strip_html }}
+  </div>
+</div>
