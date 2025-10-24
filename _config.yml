@@ -251,10 +251,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _Adwards
   - scope:
       path: ""
-      type: teaching
+      type: Adwards
     values:
       layout: single
       author_profile: true
@@ -278,12 +278,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _activities
   - scope:
       path: ""
-      type: talks
+      type: Academic activities
     values:
-      layout: talk
+      layout: Academic activities
       author_profile: true
       share: true
 
