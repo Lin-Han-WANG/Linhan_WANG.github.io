@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "About Me"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,14 +15,14 @@ Education
 Chinese Academy of Sciences, University of Chinese Academy of Sciences, Supervisor: Dr. Yangang SUN, 2019-2026
 * B.S. in Biology, Yunnan University, 2015-2019
 
-Work experience
+Academic Activities
 ======
-* Spring 2024: Academic Pages Collaborator
+* Summer 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
+* Summer 2023: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
