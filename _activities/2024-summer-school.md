@@ -1,5 +1,5 @@
 ---
-layout: activity
+layout: activities
 title: "FENS – Chen Institute – NeuroLéman Summer School 2024"
 collection: activities
 permalink: /activities/2024-summer-school
