@@ -3,7 +3,7 @@ title: "The Parabrachial Nucleus Directly Channels Spinal Nociceptive Signals to
 collection: publications
 category: manuscripts
 permalink: /publication/2020-09-09-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2020-09-09
 venue: 'Neuron'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
