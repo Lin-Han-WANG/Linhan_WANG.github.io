@@ -2,7 +2,7 @@
 title: "National scholarship"
 collection: teaching
 #type: "Undergraduate course"
-permalink: /teaching/2020-national-scholarship
+permalink: /teaching/2014-spring-teaching-1.md
 #venue: "University 1, Department"
 date: 2020-12-31
 #location: "City, Country"
