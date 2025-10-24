@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Spinal ascending pathways for somatosensory information processing"
 collection: publications
 category: Review
 permalink: /publication/2009-10-01-paper-title-number-1
