@@ -1,7 +1,7 @@
 ---
 title: "An atlas of itch-associated neural dynamics in the mouse brain"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2023-10-31-paper-title-number-4
 excerpt: ''
 date: 2023-10-31
