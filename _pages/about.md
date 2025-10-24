@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I’m a neuroscience doctoral candidate at the Institute of Neuroscience, CAS. My research aims to uncover how acute stress triggers pain modulation via specific neural circuits in the amygdala. I am broadly interested in affective neuroscience, pain regulation, and cognitive-emotional interactions.
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
 
 A data-driven personal website
 ======
